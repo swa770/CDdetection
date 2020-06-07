@@ -13,6 +13,7 @@ TODOs
 
 [ ] Write the report (4 pages excluding references) - All
 
+[ ] Sentimental Anaylsis Model (Positive vs Negative)
 
 Datasets: 
 1. Sentiment140 http://help.sentiment140.com/for-students
