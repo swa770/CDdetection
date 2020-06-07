@@ -7,7 +7,7 @@ TODOs
 
 [ ] Data Augementation - Su Yong. * I will finish it by Saturday Night
   
-[ ] BERT - 
+[ ] BERT -  * https://modelzoo.co/model/pytorch-pretrained-bert
 
 [ ] Binary Classification (Logistic Regression) -
 
