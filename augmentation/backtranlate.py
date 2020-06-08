@@ -1,6 +1,9 @@
 import csv
 import torch
 
+# paths for Input and Output files
+# must be separated by \n
+# recommend to run insert_and_replace.py first
 input_file = 'aug_1.txt'
 output_file = 'aug_2.txt'
 
@@ -13,7 +16,8 @@ with open(input_file) as f:
             line = line.replace('\n', '')
             # Write the original sentence
             o.write(line + '\n')
-            # write paraphrase one
+
+            # write the paraphrased one
             paraphrase = de2en.translate(en2de.translate(line))
             if line != paraphrase:
                 o.write(paraphrase + '\n')
