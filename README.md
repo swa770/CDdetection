@@ -1,19 +1,11 @@
-# CDdetection
+CS263 Final Project: Detech Cognitive Distortion
 
-Due Data: June 8 12 PM
+Members: Jeannie Huang, Rohan Dutta, Su Yong Won
 
-TODOs
-[ ] Data Collection and Preprocessing (Testing Dataset as well) - Jeannie
+References:
+1. BERT: https://modelzoo.co/model/pytorch-pretrained-bert
+2. nlpaug: https://github.com/makcedward/nlpaug
+3. BERT Implementation: https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb
 
-[ ] Data Augementation - Su Yong. * I will finish it by Saturday Night
-  
-[ ] BERT -  * https://modelzoo.co/model/pytorch-pretrained-bert
-
-[ ] Binary Classification (Logistic Regression) - Rohan
-  - Sentimental Anaylsis Model (Positive vs Negative)
-
-[ ] Write the report (4 pages excluding references) - All
-
-
-Datasets: 
+Datasets:
 1. Sentiment140 http://help.sentiment140.com/for-students
