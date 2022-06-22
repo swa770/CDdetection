@@ -11,7 +11,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 nlpaug==0.0.14
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 packaging==20.4
 pkg-resources==0.0.0
 pyparsing==2.4.7
